@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: unique games conjecture is so damn true! so is subhash khot
 ---
 
 this post will be the first of the series on my views on the so called pcp theorem and hardness of approximation.
