@@ -1,6 +1,6 @@
 ---
 layout: post
-title:rubiks 
+title: rubiks 
 ---
 
 my vice principal is a good man , he said that if i were able to build a robot that solves a rubiks cube by this july 31st then 
