@@ -14,7 +14,8 @@ i have been in the area of convolutional neural networks since last year , i too
 
 they said i should make a presentation of atmost 15 slides(retards) so i made a noob level presentation on it and my reviewer saw the first slide of it and said that i am going to get a zero .
 
-go through my bullshit powerpoint presentation if you have no other thing to do.
+
+[go through my bullshit powerpoint presentation if you have no other thing to do.]({{ site.url }}/assets/15341a0412.pptx) 
 
 
 
