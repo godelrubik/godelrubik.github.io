@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+Me? Me, I'm a product of Rakim
+Lakim Shabazz, 2Pac, N-W-A., Cube, hey, Doc, Ren
+Yella, Eazy, thank you, they got Slim
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+This is your life and it's ending one minute at a time
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[baddu.arya@yahoo.co.uk](mailto:baddu.arya@yahoo.co.uk)
